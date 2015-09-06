@@ -1,0 +1,40 @@
+.new-error {
+	color: blue;
+	font-weight: bold;
+	background-color: pink;
+	
+}
+
+.edit-person {
+	background-color: lightyellow;
+	padding: 20px;	
+}
+
+.form-padding {
+	padding: 4px;
+}
+
+.people-row {
+	background-color: lightblue;
+}
+.people-heading {
+	background-color: yellow;
+}
+h1 {
+	background-color: yellow;
+	padding: 20px;
+}
+#menu-header {
+	background-color: lightgreen;
+	padding: 10px;
+}
+
+#message-box {
+	background-color: lightgreen;
+	padding: 10px;
+}
+
+.new-person {
+	background-color: lightblue;
+	padding: 10px;
+}
